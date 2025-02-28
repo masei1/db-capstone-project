@@ -24,7 +24,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='9GScrAa0RCarDNRf-oUe0g_452298fa013a423f82d683d99d8386e1_Worksheet' name='excel-direct.0dv3ofh1jbgzx51cvp8be1psyizl'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/ludovic.marseille/Downloads/9GScrAa0RCarDNRf-oUe0g_452298fa013a423f82d683d99d8386e1_Worksheet.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='~/Downloads/9GScrAa0RCarDNRf-oUe0g_452298fa013a423f82d683d99d8386e1_Worksheet.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.0dv3ofh1jbgzx51cvp8be1psyizl' name='Orders' table='[Orders$]' type='table'>
@@ -482,7 +482,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='EqSK5enRQCuwiucbZmZelA_27d5699c265a45b38d7a8155ed768be1_LittleLemon_data' name='excel-direct.1z021qi0mzii6p1gdl64h0fn93cf'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/ludovic.marseille/Downloads/EqSK5enRQCuwiucbZmZelA_27d5699c265a45b38d7a8155ed768be1_LittleLemon_data.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='~/Downloads/EqSK5enRQCuwiucbZmZelA_27d5699c265a45b38d7a8155ed768be1_LittleLemon_data.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.1z021qi0mzii6p1gdl64h0fn93cf' name='Orders' table='[Orders$]' type='table'>
